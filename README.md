@@ -4,18 +4,25 @@
 Plank Theme: Yosemite
 
 ## Manual installation:
-    ```sh
+
+```
     $ git clone https://github.com/MichelLacerda/plank-theme-yosemite.git --local /tmp/Yosemite
-    
     # cp -r /tmp/Yosemite /usr/share/plank/themes/
-    ```
+```
 
 ## Ubuntu Installation:
-    ```sh
-    $ git clone https://github.com/MichelLacerda/plank-theme-yosemite.git --local /tmp/Yosemite && cd /tmp/Yosemite/deb
 
+```
+    $ git clone https://github.com/MichelLacerda/plank-theme-yosemite.git --local /tmp/Yosemite
+    $ cd /tmp/Yosemite/deb
     # dpkg -i plank-theme-yosemite_1.0_all.deb
-    ```
+```
+or
+```
+    $ wget https://githubusercontent.com/MichelLacerda/plank-theme-yosemite/raw/master/deb/plank-theme-yosemite_1.0_all.deb
+    # dpkg -i plank-theme-yosemite_1.0_all.deb 
+```
+
 ### Author:
     Michel Lacerda
     Sex Jul  1 10:42:58 BRT 2016
