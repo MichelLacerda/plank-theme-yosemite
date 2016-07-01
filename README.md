@@ -17,11 +17,6 @@ Plank Theme: Yosemite
     $ cd /tmp/Yosemite/deb
     # dpkg -i plank-theme-yosemite_1.0_all.deb
 ```
-or
-```
-    $ wget https://githubusercontent.com/MichelLacerda/plank-theme-yosemite/raw/master/deb/plank-theme-yosemite_1.0_all.deb
-    # dpkg -i plank-theme-yosemite_1.0_all.deb 
-```
 
 ### Author:
     Michel Lacerda
